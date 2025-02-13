@@ -1,0 +1,14 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Sat Feb  1 12:18:27 2025 
+Best design point: 6
+Design specs: 
+	ProjektMZ_AMP_TOP_TEST_2	corner	Nominal - 
+Design parameters: 
+	CONFIG/ProjektMZ/AMP_TOP		av_extracted
+
+Interactive.292
+Number of points completed: 6
+Number of simulation errors: 1
+Interactive.292 completed. 
+Current time: Sat Feb  1 12:19:09 2025 

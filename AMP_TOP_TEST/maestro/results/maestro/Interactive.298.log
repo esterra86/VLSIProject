@@ -1,0 +1,17 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Sat Feb  1 12:44:52 2025 
+Best design point: 1
+Design specs: 
+	ProjektMZ_AMP_TOP_TEST_2	corner	Nominal - 
+	Moc Diff		12.53u
+	Moc CS		50.47u
+	Moc Stopnia Sterowania		706.1p
+Design parameters: 
+	CONFIG/ProjektMZ/AMP_TOP		schematic
+
+Interactive.298
+Number of points completed: 6
+Number of simulation errors: 0
+Interactive.298 completed. 
+Current time: Sat Feb  1 12:45:12 2025 

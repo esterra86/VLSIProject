@@ -1,0 +1,16 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Sat Feb  1 11:58:50 2025 
+Best design point: 1
+Design specs: 
+	ProjektMZ_AMP_TOP_TEST_2	corner	Nominal - 
+	rms output referred noise		22.26u
+	rms input referred noise		22.27u
+Design parameters: 
+	CONFIG/ProjektMZ/AMP_TOP		schematic
+
+Interactive.290
+Number of points completed: 64
+Number of simulation errors: 5
+Interactive.290 completed. 
+Current time: Sat Feb  1 12:00:08 2025 
