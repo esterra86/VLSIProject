@@ -10,5 +10,7 @@ The core of the design is a **two-stage Miller OTA** (Operational Transconductan
 ## Bandwidth control
 Bandwidth control is achieved by adjusting the position of the dominant and non-dominant poles. The project utilizes the relatioship between pole positions and transconductance of amplifier stages. The transconductance of each stage is manipulated using the output current of the DAC. This current is copied to both amplifier stages through a current mirror bank.
 
-## DAC
+### DAC
+The DAC operates by switching key transistors on and off based on the bits of the input value b<0:4>. Each activated transistor allows current to flow from its corresponding current source, and the total output current is the sum of all these individual currents.
+For the current to match correctly, all current sources must experience the same resistance. To achieve this, the number of key transistor instances for each bit is equal to the number of current source instances
 ![DAC schemat](images/DAC_Schematic.png)
