@@ -1,5 +1,5 @@
 # Operation Amplifier with bandwidth control
-The goal of the project was to implement an amplifier circuit in a voltage follower configuration with bandwidth control using a digital-to-analog converter (DAC).
+The objective of this project was to design and implement an amplifier circuit in a voltage follower configuration with bandwidth control utilizing a digital-to-analog converter (DAC). The targeted tuning range was between 15 MHz and 20 MHz for the smallest possible bandwidth and 60 MHz to 70 MHz for the largest. Additionally, the phase margin was required to be within the range of 60° to 70°.
 
 ## Miller CMOS OTA
 
@@ -12,5 +12,9 @@ Bandwidth control is achieved by adjusting the position of the dominant and non-
 
 ### DAC
 The DAC operates by switching key transistors on and off based on the bits of the input value b<0:4>. Each activated transistor allows current to flow from its corresponding current source, and the total output current is the sum of all these individual currents.
+
 For the current to match correctly, all current sources must experience the same resistance. To achieve this, the number of key transistor instances for each bit is equal to the number of current source instances
 ![DAC schemat](images/DAC_Schematic.png)
+
+## Full Schematic
+![AMP top schemat](images/AmpTop_schematic.png)
