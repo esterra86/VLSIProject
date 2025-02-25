@@ -18,3 +18,21 @@ For the current to match correctly, all current sources must experience the same
 
 ## Full Schematic
 ![AMP top schemat](images/AmpTop_schematic.png)
+
+## Layout
+### Full layout
+![Ampt top layout](images/AmpTop_layout.png)
+
+### Current Mirror and CS stage layout
+![CurrentMirror_and_CSstage_layout](images/CurrentMirror_and_CSstage_layout.png)
+
+### Differential Pair layout
+![Differential Parit layout](images/DAC_layout.png)
+
+### DAC layout
+![DAC layout](images/DiffPair_layout.png)
+
+
+
+
+
