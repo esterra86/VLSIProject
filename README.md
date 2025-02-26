@@ -27,10 +27,10 @@ For the current to match correctly, all current sources must experience the same
 ![CurrentMirror_and_CSstage_layout](images/CurrentMirror_and_CSstage_layout.png)
 
 ### Differential Pair layout
-![Differential Parit layout](images/DAC_layout.png)
+![Differential Parit layout](images/DiffPair_layout.png)
 
 ### DAC layout
-![DAC layout](images/DiffPair_layout.png)
+![DAC layout](images/DAC_layout.png)
 
 ## Simulations Results
 
