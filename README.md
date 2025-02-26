@@ -33,22 +33,23 @@ For the current to match correctly, all current sources must experience the same
 ![DAC layout](images/DiffPair_layout.png)
 
 ## Simulations Results
-## Output Transfer Characteristics vs. Input Voltage
-### Open Loop
+
+### Output Transfer Characteristics vs. Input Voltage
+#### Open Loop
 ![Open loop transfer](images/simulations/OpenLoop.jpg)
-### Closed Loop
+#### Closed Loop
 ![Open loop transfer](images/simulations/ClosedLoop.jpg)
 
-##Phase Margin vs dac_bit
+### Phase Margin vs dac_bit
 ![Phase Margin](images/simulations/PhaseMargin.jpg)
 
-##Bandwidth vs dac_bit
+### Bandwidth vs dac_bit
 ![Bandwidth](images/simulations/Bandwidth_vs_DACbit.jpg)
 
-## Power Consumption
-### schematic level simulation
+### Power Consumption
+#### schematic level simulation
 ![Power Consumption schematic](images/simulations/PowerConsumption.jpg)
-### post-layout level simulation
+#### post-layout level simulation
 ![Power Consumption extracted](images/simulations/PowerConsumption_postlayout.jpg)
 
 
