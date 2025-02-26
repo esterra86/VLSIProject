@@ -35,6 +35,7 @@ For the current to match correctly, all current sources must experience the same
 ## Simulations Results
 
 ### Output Transfer Characteristics vs. Input Voltage
+
 #### Open Loop
 ![Open loop transfer](images/simulations/OpenLoop.jpg)
 #### Closed Loop
@@ -47,10 +48,24 @@ For the current to match correctly, all current sources must experience the same
 ![Bandwidth](images/simulations/Bandwidth_vs_DACbit.jpg)
 
 ### Power Consumption
+
 #### schematic level simulation
 ![Power Consumption schematic](images/simulations/PowerConsumption.jpg)
 #### post-layout level simulation
 ![Power Consumption extracted](images/simulations/PowerConsumption_postlayout.jpg)
+
+### Transient Analysis
+
+#### Input Amplitude 20mV Frequnecy 1MHz
+![TRan1](images/simulations/Tran1.jpg)
+#### Input Amplitude 500mV Frequnecy 1MHz
+![Tran2](images/simulations/tran2.jpg)
+#### Input Amplitude 20mV Frequnecy 20MHz
+![Tran3](images/simulations/tran3.jpg)
+#### Input Amplitude 500mV Frequnecy 20MHz
+![Tran4](images/simulations/tran4.jpg)
+
+
 
 
 
