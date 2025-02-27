@@ -1,5 +1,5 @@
 # Operation Amplifier with bandwidth control
-The objective of this project was to design and implement an amplifier circuit in a voltage follower configuration with bandwidth control utilizing a digital-to-analog converter (DAC). The targeted tuning range was between 15 MHz and 20 MHz for the smallest possible bandwidth and 60 MHz to 70 MHz for the largest. Additionally, the phase margin was required to be within the range of 60° to 70°.
+The objective of this project was to design and implement an amplifier circuit in a voltage follower configuration with bandwidth control utilizing a digital-to-analog converter (DAC). The targeted tuning range was between 15 MHz and 20 MHz for the smallest possible bandwidth and 60 MHz to 70 MHz for the largest. Additionally, the phase margin was required to be within the range of 60° to 70°. Project is realized is **180nm technology**.
 
 ## Miller CMOS OTA
 
